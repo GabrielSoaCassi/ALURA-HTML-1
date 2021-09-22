@@ -45,3 +45,15 @@ ul{
 .imagem_beneficios{
     width: 50%;
 }
+
+footer {
+    text-align: center;
+    background: url("../image/prod_img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: 20px;
+}
