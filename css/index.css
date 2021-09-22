@@ -34,7 +34,7 @@ nav a:hover{
 
 .principal{
 
-    margin-top: 50px;
+    margin-top: 30px;
     background:#CCCCCC;
     padding: 30px;
 }
@@ -51,6 +51,7 @@ nav a:hover{
 }
 
 p{
+    padding: 10px;
     text-align: center;
     font-size: 18px;
 }
@@ -65,25 +66,38 @@ em strong{
     font-weight: bold;
     color: #FF0000;
 }
-.beneficios ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
-
-.itens{
-    font-style: italic;
-}
 
 .beneficios{
     background: #FFF;
     padding: 20px;
+    width: 940px;
+    margin:0 auto;
     
 }
 
+.beneficios h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.beneficios ul{
+    display: inline-block;
+    vertical-align: top;
+    padding: 40px;    
+}
+
+.itens{
+    padding: 30px;
+    font-style: italic;
+    font-size: 18px;
+}
+
+
+
 .imagem_beneficios{
     width: 50%;
+    padding: 40px;
 }
 
 footer {
