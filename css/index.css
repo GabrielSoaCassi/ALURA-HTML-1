@@ -1,4 +1,6 @@
-
+body{
+    background-image: url(../image/prod_img/bg.jpg);
+}
 header{
     background: #BBBBBB;
     padding: 20px 0 20px 0;
