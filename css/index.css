@@ -53,6 +53,7 @@ nav a:hover{
 p{
     text-align: center;
     font-size: 18px;
+    padding: 20px;
 }
 
 #missao{
@@ -65,24 +66,32 @@ em strong{
     font-weight: bold;
     color: #FF0000;
 }
-.beneficios ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
-
-.itens{
-    font-style: italic;
-}
-
 .beneficios{
     background: #FFF;
     padding: 20px;
     
 }
+.beneficios h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.beneficios ul{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.itens{
+    font-size: 18px;
+    font-style: italic;
+    padding: 30px;
+}
+
+
 
 .imagem_beneficios{
+    padding: 15px;
     width: 50%;
 }
 
